@@ -5,7 +5,7 @@ Cons:
 * I felt recursive list functions were particularly badly taught compared to the Andy Balaam lectures on Youtube, or Dan Grossman of the 'Programming Languages' UoW course. 
 * In summary, the course often requires students make connections by themselves or rote learn the material. I feel if I had had less programming experience than I have I would have probably quit out of boredom.
 * Exercises are in Racket, but little effort is made to explain the different libraries in the language. 
-* To much copy & paste this recipe/template and too little explaining why the recipes are the way they are so we can remember them in 5 years.
+* Too much copy & paste this recipe/template and too little explaining why the recipes are the way they are so we can remember them in 5 years or implement something similar when confronted with slightly different data structures.
 
 Pros:
 * Having said that, I still feel Systematic Program Design is worthy of study, and, seeing as there are no other MOOCs that cover this area, being patient and watching a sped up version of this course is worth it. I felt a lot more confident in my ability to plan and write maintainable, long term code after taking it.
